@@ -1,4 +1,4 @@
-package com.qingcheng.controller;
+package com.qingcheng.controller.goods;
 
 import com.qingcheng.entity.Result;
 import org.springframework.web.bind.annotation.ControllerAdvice;
